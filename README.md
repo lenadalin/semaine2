@@ -1,4 +1,4 @@
-#titre Les exercices réalisés et badges acquis pour le moment : 
+#Les exercices réalisés et badges acquis pour le moment : 
 
 Sur Code Academy :  
   
